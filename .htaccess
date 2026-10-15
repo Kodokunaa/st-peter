@@ -10,7 +10,7 @@ AddDefaultCharset UTF-8
 
     # --------------------------------------------------
     # Deny access to sensitive directories
-    RedirectMatch 403 ^/(app|scheme|console|runtime)/
+    RewriteRule ^(?:app|scheme|console|runtime|database|docs|tests|\.git)(?:/|$) - [F,L,NC]
 
     # --------------------------------------------------
     # Deny access to sensitive files
@@ -24,6 +24,6 @@ AddDefaultCharset UTF-8
 
     # --------------------------------------------------
     # Route all requests through public/index.php
-    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^public(?:/|$) - [L]
     RewriteRule ^(.*)$ public/$1 [L,QSA]
 </IfModule>

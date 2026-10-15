@@ -1,0 +1,452 @@
+{
+  "base_url": "http://localhost/st%20peter/",
+  "passed": 112,
+  "linked_pages_and_assets": 103,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "login",
+      "status": 200
+    },
+    {
+      "path": "register",
+      "status": 200
+    },
+    {
+      "path": "forgot-password",
+      "status": 200
+    },
+    {
+      "path": "reset-password",
+      "status": 200
+    },
+    {
+      "path": "customer",
+      "status": 200
+    },
+    {
+      "path": "admin",
+      "status": 200
+    },
+    {
+      "path": "assets/css/memorial.css",
+      "status": 200
+    },
+    {
+      "path": "assets/css/st-peter-dashboard.css",
+      "status": 200
+    },
+    {
+      "path": "assets/css/wireframe.css",
+      "status": 200
+    },
+    {
+      "path": "assets/js/memorial.js",
+      "status": 200
+    },
+    {
+      "path": "assets/images/st-peter-logo.png",
+      "status": 200
+    },
+    {
+      "path": "about",
+      "status": 200
+    },
+    {
+      "path": "plans",
+      "status": 200
+    },
+    {
+      "path": "faq",
+      "status": 200
+    },
+    {
+      "path": "contact",
+      "status": 200
+    },
+    {
+      "path": "plans/individual",
+      "status": 200
+    },
+    {
+      "path": "plans/family",
+      "status": 200
+    },
+    {
+      "path": "plans/premium",
+      "status": 200
+    },
+    {
+      "path": "customer/dashboard",
+      "status": 200
+    },
+    {
+      "path": "customer/profile",
+      "status": 200
+    },
+    {
+      "path": "customer/plans",
+      "status": 200
+    },
+    {
+      "path": "customer/contracts",
+      "status": 200
+    },
+    {
+      "path": "customer/billing",
+      "status": 200
+    },
+    {
+      "path": "customer/payment",
+      "status": 200
+    },
+    {
+      "path": "customer/history",
+      "status": 200
+    },
+    {
+      "path": "customer/receipts",
+      "status": 200
+    },
+    {
+      "path": "customer/documents",
+      "status": 200
+    },
+    {
+      "path": "customer/support",
+      "status": 200
+    },
+    {
+      "path": "customer/notifications",
+      "status": 200
+    },
+    {
+      "path": "admin/dashboard",
+      "status": 200
+    },
+    {
+      "path": "admin/customers",
+      "status": 200
+    },
+    {
+      "path": "admin/plans",
+      "status": 200
+    },
+    {
+      "path": "admin/contracts",
+      "status": 200
+    },
+    {
+      "path": "admin/billing",
+      "status": 200
+    },
+    {
+      "path": "admin/payments",
+      "status": 200
+    },
+    {
+      "path": "admin/methods",
+      "status": 200
+    },
+    {
+      "path": "admin/receipts",
+      "status": 200
+    },
+    {
+      "path": "admin/documents",
+      "status": 200
+    },
+    {
+      "path": "admin/inquiries",
+      "status": 200
+    },
+    {
+      "path": "admin/notifications",
+      "status": 200
+    },
+    {
+      "path": "admin/users",
+      "status": 200
+    },
+    {
+      "path": "admin/reports",
+      "status": 200
+    },
+    {
+      "path": "customer/profile/edit",
+      "status": 200
+    },
+    {
+      "path": "customer/profile/password",
+      "status": 200
+    },
+    {
+      "path": "customer/contracts/CON-001",
+      "status": 200
+    },
+    {
+      "path": "customer/contracts/schedule",
+      "status": 200
+    },
+    {
+      "path": "customer/documents/DOC-001",
+      "status": 200
+    },
+    {
+      "path": "customer/contracts/coverage",
+      "status": 200
+    },
+    {
+      "path": "customer/contracts/documents",
+      "status": 200
+    },
+    {
+      "path": "customer/beneficiaries",
+      "status": 200
+    },
+    {
+      "path": "customer/billing/upcoming",
+      "status": 200
+    },
+    {
+      "path": "customer/billing/details",
+      "status": 200
+    },
+    {
+      "path": "customer/payment/checkout",
+      "status": 200
+    },
+    {
+      "path": "customer/payment/status",
+      "status": 200
+    },
+    {
+      "path": "customer/history/PAY-001",
+      "status": 200
+    },
+    {
+      "path": "customer/receipts/RCP-001",
+      "status": 200
+    },
+    {
+      "path": "customer/support/new",
+      "status": 200
+    },
+    {
+      "path": "customer/support/INQ-001",
+      "status": 200
+    },
+    {
+      "path": "customer/notifications/NTF-001",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/add",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/CL-001",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/CL-002",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/CL-003",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/contracts",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/payments",
+      "status": 200
+    },
+    {
+      "path": "admin/customers/documents",
+      "status": 200
+    },
+    {
+      "path": "admin/plans/add",
+      "status": 200
+    },
+    {
+      "path": "admin/plans/individual",
+      "status": 200
+    },
+    {
+      "path": "admin/plans/family",
+      "status": 200
+    },
+    {
+      "path": "admin/plans/premium",
+      "status": 200
+    },
+    {
+      "path": "admin/plans/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/services",
+      "status": 200
+    },
+    {
+      "path": "admin/contracts/create",
+      "status": 200
+    },
+    {
+      "path": "admin/contracts/CON-001",
+      "status": 200
+    },
+    {
+      "path": "admin/contracts/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/billing/create",
+      "status": 200
+    },
+    {
+      "path": "admin/billing/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/billing/status",
+      "status": 200
+    },
+    {
+      "path": "admin/payments/record",
+      "status": 200
+    },
+    {
+      "path": "admin/payments/PAY-001",
+      "status": 200
+    },
+    {
+      "path": "admin/payments/transaction",
+      "status": 200
+    },
+    {
+      "path": "admin/payments/qr",
+      "status": 200
+    },
+    {
+      "path": "admin/refunds",
+      "status": 200
+    },
+    {
+      "path": "admin/methods/add",
+      "status": 200
+    },
+    {
+      "path": "admin/methods/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/receipts/RCP-001",
+      "status": 200
+    },
+    {
+      "path": "admin/documents/upload",
+      "status": 200
+    },
+    {
+      "path": "admin/documents/DOC-001",
+      "status": 200
+    },
+    {
+      "path": "admin/inquiries/INQ-001",
+      "status": 200
+    },
+    {
+      "path": "admin/inquiries/respond",
+      "status": 200
+    },
+    {
+      "path": "admin/notifications/NTF-001",
+      "status": 200
+    },
+    {
+      "path": "admin/notifications/delivery",
+      "status": 200
+    },
+    {
+      "path": "admin/users/add",
+      "status": 200
+    },
+    {
+      "path": "admin/users/edit",
+      "status": 200
+    },
+    {
+      "path": "admin/users/roles",
+      "status": 200
+    },
+    {
+      "path": "admin/users/status",
+      "status": 200
+    },
+    {
+      "path": "admin/reports/collections",
+      "status": 200
+    },
+    {
+      "path": "admin/reports/contracts",
+      "status": 200
+    },
+    {
+      "path": "admin/reports/enrollments",
+      "status": 200
+    },
+    {
+      "path": "admin/reports/overdue",
+      "status": 200
+    },
+    {
+      "path": "admin/reports/methods",
+      "status": 200
+    },
+    {
+      "path": "missing-page",
+      "status": 404
+    },
+    {
+      "path": "plans/unknown",
+      "status": 404
+    },
+    {
+      "path": "customer/unknown",
+      "status": 404
+    },
+    {
+      "path": "admin/customers/unknown",
+      "status": 404
+    },
+    {
+      "path": "admin/no-page/no-detail",
+      "status": 404
+    },
+    {
+      "path": "database/schema.sql",
+      "status": 403
+    },
+    {
+      "path": "app/config/database.php",
+      "status": 403
+    },
+    {
+      "path": ".git/config",
+      "status": 403
+    }
+  ],
+  "checkout_selection": "passed"
+}

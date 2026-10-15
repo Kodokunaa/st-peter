@@ -1,0 +1,403 @@
+{
+  "revision": "Wireframe layouts with St. Peter branding",
+  "mobile": [
+    {
+      "path": "",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "about",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "plans",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "plans/individual",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "plans/family",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "plans/premium",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "faq",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "contact",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "login",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "register",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "forgot-password",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "reset-password",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/dashboard",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/profile",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/plans",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/contracts",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/billing",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/payment",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/history",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/receipts",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/documents",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/support",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/notifications",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/dashboard",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/customers",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/plans",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/contracts",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/billing",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/payments",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/methods",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/receipts",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/documents",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/inquiries",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/notifications",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/users",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/reports",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "customer/beneficiaries",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/services",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "admin/refunds",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "path": "",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "about",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "plans",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "plans/individual",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "plans/family",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "plans/premium",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "faq",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "login",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "register",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "forgot-password",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "reset-password",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/dashboard",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/profile",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/plans",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/contracts",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/billing",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/payment",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/history",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/receipts",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/documents",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/support",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/notifications",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/dashboard",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/customers",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/plans",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/contracts",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/billing",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/payments",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/methods",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/receipts",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/documents",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/inquiries",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/notifications",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/users",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/reports",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "customer/beneficiaries",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/services",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "path": "admin/refunds",
+      "width": 320,
+      "overflow": false
+    }
+  ],
+  "interactions": [
+    "Public top navigation",
+    "Plan category filters",
+    "Customer contract detail and beneficiary extension navigation",
+    "Public mobile menu",
+    "Contact preview validation"
+  ],
+  "consoleWarningsOrErrors": []
+}

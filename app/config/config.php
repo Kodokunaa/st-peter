@@ -88,7 +88,7 @@ $config['date_default_timezone'] = 'Asia/Manila';
 | WARNING: You MUST set this value!
 |
 */
-$config['base_url'] 				= '';
+$config['base_url'] = getenv('APP_URL') ?: 'http://localhost/st%20peter/';
 
 /*
 |--------------------------------------------------------------------------
@@ -192,7 +192,7 @@ $config['error_view_path']         	= '';
 |	if you have 'default folder' and '404.php file' inside error folder in view
 |
 */
-$config['404_override']       	    = '';
+$config['404_override'] = 'memorial_404';
 
 /*
 |--------------------------------------------------------------------------

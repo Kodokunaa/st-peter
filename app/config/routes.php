@@ -44,4 +44,10 @@ defined('PREVENT_DIRECT_ACCESS') OR exit('No direct script access allowed');
 */
 /** @var object $router **/
 
-$router->get('/', 'Welcome::index');
+$router->get('/', 'Public_site::index');
+$router->get('/customer', 'Customer_portal::page');
+$router->get('/customer/{page}/{detail?}', 'Customer_portal::page');
+$router->get('/admin', 'Admin_portal::page');
+$router->get('/admin/{page}/{detail?}', 'Admin_portal::page');
+$router->get('/plans/{slug}', 'Public_site::plan');
+$router->get('/{page}', 'Public_site::page');

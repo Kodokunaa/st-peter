@@ -83,5 +83,13 @@ define('PUBLIC_DIR', $public_folder);
  * Setup done? Then Hurray!
  * ------------------------------------------------------
  */
+// Root .htaccess forwards to public/. LavaLust routes relative to SCRIPT_NAME.
+// Keep the external mount path (including encoded spaces) for route parsing.
+if (PHP_SAPI !== 'cli' && isset($_SERVER['SCRIPT_NAME'])) {
+    $entry = preg_replace('#/public/index\.php$#', '/index.php', $_SERVER['SCRIPT_NAME']);
+    $mount = str_replace('\\', '/', dirname($entry));
+    $mount = $mount === '/' || $mount === '.' ? '' : $mount;
+    $_SERVER['SCRIPT_NAME'] = implode('/', array_map('rawurlencode', explode('/', rawurldecode($mount)))) . '/index.php';
+}
 require_once SYSTEM_DIR . 'kernel/LavaLust.php';
 ?>
